@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'farhanabiyullah@gmail.com'
 	),
 	'fields' => array(
-		'custom_U460' => array(
+		'custom_U1147' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Nama',
@@ -40,13 +40,58 @@ $form = array(
 				'required' => 'Field \'Nama\' is required.'
 			)
 		),
-		'custom_U610' => array(
+		'custom_U1165' => array(
 			'order' => 2,
 			'type' => 'string',
 			'label' => 'NIM',
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'NIM\' is required.'
+			)
+		),
+		'custom_U1175' => array(
+			'order' => 3,
+			'type' => 'string',
+			'label' => 'Jurusan',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Jurusan\' is required.'
+			)
+		),
+		'custom_U1151' => array(
+			'order' => 4,
+			'type' => 'string',
+			'label' => 'Tempat, Tanggal Lahir',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Tempat, Tanggal Lahir\' is required.'
+			)
+		),
+		'custom_U1155' => array(
+			'order' => 5,
+			'type' => 'string',
+			'label' => 'No. Handphone',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'No. Handphone\' is required.'
+			)
+		),
+		'custom_U1159' => array(
+			'order' => 6,
+			'type' => 'string',
+			'label' => 'ID Line',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'ID Line\' is required.'
+			)
+		),
+		'custom_U1143' => array(
+			'order' => 7,
+			'type' => 'string',
+			'label' => 'Alamat',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Alamat\' is required.'
 			)
 		)
 	)

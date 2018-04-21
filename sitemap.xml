@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mpmwawm2018.github.com/index.html</loc>
-    <lastmod>2018-04-20</lastmod>
+    <loc>http://mpmwawm2018.github.io/index.html</loc>
+    <lastmod>2018-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mpmwawm2018.github.com/images/pasted%20image%203991x781-crop-u274.jpg</image:loc>
+      <image:loc>http://mpmwawm2018.github.io/images/pasted%20image%203991x781-crop-u274.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mpmwawm2018.github.io/perekrutan-terbuka-tim-pjs-mwa-wm-2018.html</loc>
+    <lastmod>2018-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mpmwawm2018.github.io/images/pasted%20image%203991x781-crop-u1179.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
